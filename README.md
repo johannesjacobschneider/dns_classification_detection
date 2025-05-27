@@ -1,4 +1,4 @@
-# DNS / DGA Detection
+### DNS / DGA Detection
 
 welcome to the **DGA/DNS detection** repository. This project collects relevant literature, datasets and additional resources related to the detection of Domain Generation Algorithms (DGA) and their application in DNS traffic analysis.
 
@@ -6,10 +6,10 @@ welcome to the **DGA/DNS detection** repository. This project collects relevant 
 
 * [Introduction](README.md#Introduction)
 * [Relevant Literature](Relevant_Literature.md)
-* Code & Tools
-* Datasets
-* Further resources
-* Contributing
+* [Code & Tools](Code_Tools.md)
+* [Datasets](Datasets.md)
+* [Further resources](Further_Resources.md)
+* [Contributing](Contributing.md)
 
 **Introduction**
 
