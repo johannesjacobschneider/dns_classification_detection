@@ -5,7 +5,7 @@ welcome to the **DGA/DNS detection** repository. This project collects relevant 
 **Table of Contents**
 
 * [Introduction](README.md#Introduction)
-* [Relevant Literature](Relevant_Literature)
+* [Relevant Literature](Relevant_Literature.md)
 * Code & Tools
 * Datasets
 * Further resources
