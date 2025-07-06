@@ -30,4 +30,4 @@ For details, see the [License](License) file.
 ## Contact
 If you have questions, suggestions, or would like to collaborate, feel free to reach out. I’m happy to discuss ideas and exchange insights on DGA/DNS detection or related topics in cybersecurity.
 
-📩 [![E-Mail me](https://img.shields.io/badge/E--Mail%20me-Contact-blue?logo=gmail)](mailto:johannes_jacob.schneider@fom-net.de)
+[![E-Mail me](https://img.shields.io/badge/E--Mail%20me-Contact-blue?logo=gmail)](mailto:johannes_jacob.schneider@fom-net.de)
