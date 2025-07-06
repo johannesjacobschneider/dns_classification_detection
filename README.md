@@ -10,6 +10,9 @@ welcome to the **DGA/DNS detection** repository. This project collects relevant 
 * [Datasets](Datasets.md)
 * [Further resources](Further_Resources.md)
 * [Contributing](Contributing.md)
+* [Code](Code)
+* [Data](Data)
+* [Figures](Figures)
 
 **Introduction**
 
