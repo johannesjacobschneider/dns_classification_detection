@@ -1,6 +1,6 @@
 ### Relevant Literature
 
-| **Paper Title** | **Author(s)** |  | **Year** | **Link** |
+| **Paper Title** | **Author(s)** | **Year** | **Link** |
 |---|---|---|---|
 | Algorithmically Generated Domain Detection and Malware Family Classification | Choudhary, Chhaya; Sivaguru, Raaghavi; Pereira, Mayana; Yu, Bin; Nascimento, Anderson C.; De Cock, Martine | 2019 | [Link](http://link.springer.com/10.1007/978-981-13-5826-5_50) |
 | A Comprehensive Measurement Study of Domain Generating Malware | Plohmann, Daniel; Fkie, Fraunhofer; Yakdan, Khaled; Klatt, Michael; Bader, Johannes; Gerhards-Padilla, Elmar | 2016 | [Link](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_plohmann.pdf) |
@@ -11,7 +11,7 @@
 | UMUDGA: A dataset for profiling algorithmically generated domain names in botnet detection | Zago, Mattia; Gil Pérez, Manuel; Martínez Pérez, Gregorio | 2020 | [Link](https://linkinghub.elsevier.com/retrieve/pii/S2352340920302948) |
 | Intercepting Hail Hydra: Real-Time Detection of Algorithmically Generated Domains | Casino, Fran; Lykousas, Nikolaos; Homoliak, Ivan; Patsakis, Constantinos; Hernandez-Castro, Julio | 2021 | [Link](http://arxiv.org/abs/2008.02507) |
 | DGA domain detection using pretrained character based transformer models | Bronjon, Gogoi; Tasiruddin, Ahmed | 2023 | [Link](https://ieeexplore.ieee.org/document/10183602/metrics) |
-| Hinweise zur geschlechtergerechten Sprache | Universität Siegen |  | 2019 | [Link](https://www.uni-siegen.de/gleichstellung/geschlechtergerechte_sprache/hinweise_geschlechtergerechte_sprache.pdf) |
+| Hinweise zur geschlechtergerechten Sprache | Universität Siegen | 2019 | [Link](https://www.uni-siegen.de/gleichstellung/geschlechtergerechte_sprache/hinweise_geschlechtergerechte_sprache.pdf) |
 | PhishStorm: Detecting Phishing With Streaming Analytics | Marchal, Samuel; François, Jérôme; State, Radu; Engel, Thomas | 2014 | [Link](https://ieeexplore.ieee.org/document/6975177) |
 | Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection | Sayed, Abu; Rahman, Asif; Kiekintveld, Christopher; García, Sebastián | 2024 | [Link](https://arxiv.org/html/2410.21723v1) |
 | DomainLynx: Leveraging Large Language Models for Enhanced Domain Squatting Detection | Chiba, Daiki; Nakano, Hiroki; Koide, Takashi | 2024 | [Link](https://arxiv.org/html/2410.02095v1) |
