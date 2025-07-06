@@ -5,14 +5,14 @@
 welcome to the DGA/DNS detection repository. This project collects relevant literature, datasets and additional resources related to the detection of Domain Generation Algorithms (DGA) and their application in DNS traffic analysis.
 
 ## Table of Contents
-* [Code](Code.md)
+* [Code](Code)
 * [Contribution](Contribution.md)
 * [Data](Data)
 * [Datasets](Datasets.md)
 * [Figures](Figures)
 * [Further resources](Further_Resources.md)
 * [Introduction](README.md#Introduction)
-* [License](License)
+* [License](License.md)
 * [Model](Model)
 * [Relevant Literature](Relevant_Literature.md)
 
