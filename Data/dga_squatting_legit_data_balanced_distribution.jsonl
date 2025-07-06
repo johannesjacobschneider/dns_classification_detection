@@ -1,9 +1,0 @@
-{"classification": 0, "split": "test", "count": 1000}
-{"classification": 0, "split": "train", "count": 8000}
-{"classification": 0, "split": "val", "count": 1000}
-{"classification": 1, "split": "test", "count": 1000}
-{"classification": 1, "split": "train", "count": 8000}
-{"classification": 1, "split": "val", "count": 1000}
-{"classification": 2, "split": "test", "count": 1000}
-{"classification": 2, "split": "train", "count": 8000}
-{"classification": 2, "split": "val", "count": 1000}
