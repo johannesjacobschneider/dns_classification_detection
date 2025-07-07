@@ -1,0 +1,11 @@
+squat_type,count
+leetspeak,2000
+tld_swap,2000
+keyword_insertion,2000
+typo_swap,2000
+missing_char,2000
+extra_char,2000
+subdomain_attack,2000
+combo_squatting,2000
+homoglyph,2000
+bitsquatting,2000
