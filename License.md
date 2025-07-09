@@ -22,7 +22,7 @@ SOFTWARE.
 
 ---
 
-## Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License (for datasets and documentation)
+## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License (for datasets and documentation)
 
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format
@@ -32,4 +32,4 @@ Under the following terms:
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - **NonCommercial** — You may not use the material for commercial purposes.
 
-For the full license text, see: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+For the full license text, see: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
