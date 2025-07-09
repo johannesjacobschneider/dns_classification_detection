@@ -1,6 +1,6 @@
 # DNS / DGA Detection
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/Data%20%26%20Docs-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Data%20%26%20Docs-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 welcome to the DGA/DNS detection repository. This project collects relevant literature, datasets and additional resources related to the detection of Domain Generation Algorithms (DGA) and their application in DNS traffic analysis.
 
@@ -23,8 +23,10 @@ Domain Generation Algorithms (DGAs) are widely used by modern malware to dynamic
 The **code** in this repository is released under the [MIT License](License.md).  
 You are free to use, modify, and distribute it, provided you include proper attribution.
 
-The **datasets and documentation** are provided under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/).  
-This means you may share and adapt the material for non-commercial purposes, as long as you give appropriate credit.
+The **datasets and documentation** are provided under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+This means you may share and adapt the material for non-commercial purposes, as long as you give appropriate credit and distribute any derivative works under the same license.
+
+The datasets that include material from DGArchive are specifically provided under the CC BY-NC-SA 4.0 license.
 
 For details, see the [License](License.md) file.
 
