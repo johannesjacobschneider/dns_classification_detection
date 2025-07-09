@@ -27,7 +27,7 @@ The **datasets and documentation** are provided under the [Creative Commons Attr
 
 This means you may share and adapt the material for non-commercial purposes, as long as you give appropriate credit and distribute any derivative works under the same license.
 
-The datasets that include material from **DGArchive** are specifically provided under the CC BY-NC-SA 4.0 license.
+The datasets that include material from **DGArchive** are specifically provided under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 For details, see the [License](License.md) file.
 
