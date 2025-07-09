@@ -24,8 +24,8 @@ The **code** in this repository is released under the [MIT License](License.md).
 You are free to use, modify, and distribute it, provided you include proper attribution.
 
 The **datasets and documentation** are provided under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
-This means you may share and adapt the material for non-commercial purposes, as long as you give appropriate credit and distribute any derivative works under the same license.
 
+This means you may share and adapt the material for non-commercial purposes, as long as you give appropriate credit and distribute any derivative works under the same license.
 
 The datasets that include material from **DGArchive** are specifically provided under the CC BY-NC-SA 4.0 license.
 
