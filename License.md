@@ -29,7 +29,10 @@ You are free to:
 - **Adapt** — remix, transform, and build upon the material
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **Attribution** — You must give appropriate credit (e.g. to DGArchive), provide a link to the license, and indicate if changes were made.
 - **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+**Note:** The datasets that include data originating from **DGArchive** are explicitly provided under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), in agreement with the original data provider.
 
 For the full license text, see: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
