@@ -1,4 +1,5 @@
 ## MIT License (for code)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Copyright (c) 2025 [Johannes Jacob Schneider]
 
@@ -23,6 +24,7 @@ SOFTWARE.
 ---
 
 ## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License (for datasets and documentation)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Data%20%26%20Docs-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format
